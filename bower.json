@@ -6,6 +6,7 @@
     "Fabrice Le Coz <fabrice.lecoz@zedesk.net>"
   ],
   "description": "A loading bar component",
+  "main": "zdk-waiting.html",
   "keywords": [
     "Polymer",
     "web-components"
